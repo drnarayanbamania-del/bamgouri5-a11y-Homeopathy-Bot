@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Bhavna - Homeopathy Bot",
+  "description": "A responsive AI-powered Homeopathy Assistant using Gemini API, capable of voice interaction and Hinglish conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
